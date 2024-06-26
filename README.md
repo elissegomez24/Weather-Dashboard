@@ -32,6 +32,7 @@ The challenge includes:
 ![alt text](<Weather Dashboard 2.png>)
 
 ## Deployed Application 
+https://elissegomez24.github.io/Weather-Dashboard/ 
 
 ## Created by 
 - This Weather Dahsboard was created by Elisse Gomez 
